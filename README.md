@@ -1,1 +1,2 @@
-# Start-R-1
+# Start-R
+This is repository is to get started with R
